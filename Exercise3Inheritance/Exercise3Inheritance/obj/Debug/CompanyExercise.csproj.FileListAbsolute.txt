@@ -1,0 +1,6 @@
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\Exercise3Inheritance\bin\Debug\Exercise3Inheritance.exe.config
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\Exercise3Inheritance\bin\Debug\Exercise3Inheritance.exe
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\Exercise3Inheritance\bin\Debug\Exercise3Inheritance.pdb
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\Exercise3Inheritance\obj\Debug\CompanyExercise.csproj.CoreCompileInputs.cache
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\Exercise3Inheritance\obj\Debug\Exercise3Inheritance.exe
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\Exercise3Inheritance\obj\Debug\Exercise3Inheritance.pdb

@@ -1,0 +1,10 @@
+E:\Semestrul4\DNP\repos\HelloWorldVSC\bin\Debug\netcoreapp2.0\HelloWorldVSC.deps.json
+E:\Semestrul4\DNP\repos\HelloWorldVSC\bin\Debug\netcoreapp2.0\HelloWorldVSC.runtimeconfig.json
+E:\Semestrul4\DNP\repos\HelloWorldVSC\bin\Debug\netcoreapp2.0\HelloWorldVSC.runtimeconfig.dev.json
+E:\Semestrul4\DNP\repos\HelloWorldVSC\bin\Debug\netcoreapp2.0\HelloWorldVSC.dll
+E:\Semestrul4\DNP\repos\HelloWorldVSC\bin\Debug\netcoreapp2.0\HelloWorldVSC.pdb
+E:\Semestrul4\DNP\repos\HelloWorldVSC\obj\Debug\netcoreapp2.0\HelloWorldVSC.csproj.CoreCompileInputs.cache
+E:\Semestrul4\DNP\repos\HelloWorldVSC\obj\Debug\netcoreapp2.0\HelloWorldVSC.AssemblyInfoInputs.cache
+E:\Semestrul4\DNP\repos\HelloWorldVSC\obj\Debug\netcoreapp2.0\HelloWorldVSC.AssemblyInfo.cs
+E:\Semestrul4\DNP\repos\HelloWorldVSC\obj\Debug\netcoreapp2.0\HelloWorldVSC.dll
+E:\Semestrul4\DNP\repos\HelloWorldVSC\obj\Debug\netcoreapp2.0\HelloWorldVSC.pdb

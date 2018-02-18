@@ -1,0 +1,11 @@
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\obj\Debug\netcoreapp2.0\Exercise3Inheritance.csproj.CoreCompileInputs.cache
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\obj\Debug\netcoreapp2.0\Exercise3Inheritance.AssemblyInfoInputs.cache
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\obj\Debug\netcoreapp2.0\Exercise3Inheritance.AssemblyInfo.cs
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\bin\Debug\netcoreapp2.0\Exercise3Inheritance.dll.config
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\bin\Debug\netcoreapp2.0\Exercise3Inheritance.deps.json
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\bin\Debug\netcoreapp2.0\Exercise3Inheritance.runtimeconfig.json
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\bin\Debug\netcoreapp2.0\Exercise3Inheritance.runtimeconfig.dev.json
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\bin\Debug\netcoreapp2.0\Exercise3Inheritance.dll
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\bin\Debug\netcoreapp2.0\Exercise3Inheritance.pdb
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\obj\Debug\netcoreapp2.0\Exercise3Inheritance.dll
+E:\Semestrul4\DNP\repos\Exercise3Inheritance\obj\Debug\netcoreapp2.0\Exercise3Inheritance.pdb

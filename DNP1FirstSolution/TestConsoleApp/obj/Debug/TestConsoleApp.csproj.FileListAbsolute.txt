@@ -1,0 +1,7 @@
+E:\Semestrul 4\DNP\repos\DNP1FirstSolution\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+E:\Semestrul 4\DNP\repos\DNP1FirstSolution\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+E:\Semestrul 4\DNP\repos\DNP1FirstSolution\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+E:\Semestrul 4\DNP\repos\DNP1FirstSolution\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+E:\Semestrul 4\DNP\repos\DNP1FirstSolution\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
+E:\Semestrul 4\DNP\repos\DNP1FirstSolution\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+E:\Semestrul 4\DNP\repos\DNP1FirstSolution\TestConsoleApp\obj\Debug\TestConsoleApp.pdb

@@ -1,0 +1,7 @@
+E:\Semestrul4\DNP\repos\PropertyVehicle\SelfExercise5Interface\bin\Debug\SelfExercise5Interface.exe.config
+E:\Semestrul4\DNP\repos\PropertyVehicle\SelfExercise5Interface\bin\Debug\SelfExercise5Interface.exe
+E:\Semestrul4\DNP\repos\PropertyVehicle\SelfExercise5Interface\bin\Debug\SelfExercise5Interface.pdb
+E:\Semestrul4\DNP\repos\PropertyVehicle\SelfExercise5Interface\obj\Debug\SelfExercise5Interface.csprojResolveAssemblyReference.cache
+E:\Semestrul4\DNP\repos\PropertyVehicle\SelfExercise5Interface\obj\Debug\SelfExercise5Interface.csproj.CoreCompileInputs.cache
+E:\Semestrul4\DNP\repos\PropertyVehicle\SelfExercise5Interface\obj\Debug\SelfExercise5Interface.exe
+E:\Semestrul4\DNP\repos\PropertyVehicle\SelfExercise5Interface\obj\Debug\SelfExercise5Interface.pdb

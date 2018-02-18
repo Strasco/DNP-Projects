@@ -1,0 +1,7 @@
+E:\Semestrul 4\DNP\repos\Assignment1_1\DNPFirstExercices\bin\Debug\DNPFirstExercices.exe.config
+E:\Semestrul 4\DNP\repos\Assignment1_1\DNPFirstExercices\bin\Debug\DNPFirstExercices.exe
+E:\Semestrul 4\DNP\repos\Assignment1_1\DNPFirstExercices\bin\Debug\DNPFirstExercices.pdb
+E:\Semestrul 4\DNP\repos\Assignment1_1\DNPFirstExercices\obj\Debug\DNPFirstExercices.csprojResolveAssemblyReference.cache
+E:\Semestrul 4\DNP\repos\Assignment1_1\DNPFirstExercices\obj\Debug\DNPFirstExercices.csproj.CoreCompileInputs.cache
+E:\Semestrul 4\DNP\repos\Assignment1_1\DNPFirstExercices\obj\Debug\DNPFirstExercices.exe
+E:\Semestrul 4\DNP\repos\Assignment1_1\DNPFirstExercices\obj\Debug\DNPFirstExercices.pdb

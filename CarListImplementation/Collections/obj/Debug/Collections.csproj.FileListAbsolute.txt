@@ -1,0 +1,7 @@
+E:\Semestrul4\DNP\repos\CarListImplementation\Collections\bin\Debug\Collections.exe.config
+E:\Semestrul4\DNP\repos\CarListImplementation\Collections\bin\Debug\Collections.exe
+E:\Semestrul4\DNP\repos\CarListImplementation\Collections\bin\Debug\Collections.pdb
+E:\Semestrul4\DNP\repos\CarListImplementation\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+E:\Semestrul4\DNP\repos\CarListImplementation\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+E:\Semestrul4\DNP\repos\CarListImplementation\Collections\obj\Debug\Collections.exe
+E:\Semestrul4\DNP\repos\CarListImplementation\Collections\obj\Debug\Collections.pdb
